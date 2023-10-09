@@ -4,6 +4,8 @@ Olá! 👋 atualmente estou no segundo semestre da faculdade. Neste repositório
 
 Tentarei postar com a maior frequência possível! :heavy_check_mark: 
 
+Ah, aliás, a IDE que utilizo é o NetBeans...
+
 ## Sobre Mim 🙋‍♂️
 
 - 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
