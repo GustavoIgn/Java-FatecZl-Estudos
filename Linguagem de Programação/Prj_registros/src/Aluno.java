@@ -13,9 +13,7 @@ class Aluno {
     }
 
     // Método Procedimento
-    Aluno(String pnomealuno,
-            String unomealuno,
-            int pontosaluno) {
+    Aluno(String pnomealuno, String unomealuno, int pontosaluno) {
         pnome = pnomealuno;
         unome = unomealuno;
         pontos = pontosaluno;

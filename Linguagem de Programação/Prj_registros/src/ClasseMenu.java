@@ -1,7 +1,9 @@
 // ****  CLASSE PRINCIPAL *****************
+
 import javax.swing.*;
 
 class ClasseMenu {   //  CLASSE PRINCIPAL
+
     public static void main(String[] args) {
         // INSTÂNCIA DA CLASSE ABSTRATA COM 3 REGISTROS TIPO VETOR 
         Aluno[] aluno = new Aluno[3];
@@ -48,8 +50,7 @@ class ClasseMenu {   //  CLASSE PRINCIPAL
         int i;
 
         for (i = 0; i < 3; i++) {
-            System.out.println(aluno[i].pnome + " " + aluno[i].unome
-                    + " pontos: " + aluno[i].pontos);
+            System.out.println(aluno[i].pnome + " " + aluno[i].unome + " pontos: " + aluno[i].pontos);
         }
     }
 }
